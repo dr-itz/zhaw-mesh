@@ -1,0 +1,4 @@
+*.o
+*.d
+Meshy.xcodeproj/project.xcworkspace/
+Meshy.xcodeproj/xcuserdata/
